@@ -1,0 +1,44 @@
+h2 {
+ font-size:20px;
+  border: 2px solid;
+  margin: 10px;
+  padding:25px;
+  width: 450px;
+} 
+div{
+border: 2px solid;
+width:500px;
+}
+ /*span8{
+   font-size: 30px;
+  border-color: orangered;
+background-color: orangered;
+margin: -25px auto ;*/
+
+
+}
+.orange{
+  background: #e2a741;
+ width: 400px;
+position: right;
+}
+span5 {
+font-family: 'Courier New', Courier, monospace;
+font-size:20px;
+}
+span1{
+  font-family: 'Courier New', Courier, monospace;
+  font-size: 20px;
+}
+span2{
+  font-family: 'Courier New', Courier, monospace;
+    font-size: 20px;
+}
+span3{
+  font-family: 'Courier New', Courier, monospace;
+  font-size: 20px;
+  }
+span4{
+  font-family: 'Courier New', Courier, monospace;
+  font-size: 20px;
+}
